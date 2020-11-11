@@ -2,6 +2,9 @@
 <h1>Simple Post Application in MEAN Stack</h1>
 <hr>
 ![Screenshot](SS1.PNG)
+<p align="center">
+  <img src="SS1.PNG" width="350" title="hover text">
+</p>
 
 Demo of a simple application made using Mongo DB, Express JS, Angular 8+, Node JS. This is a part of a Linkedin Course named as "MEAN Stack and MongoDB: Development Techniques" by Alexzendar Zanfir. Even though Angular used in this course is of the old version, I was able to use my basic knowledge of the latest version of Angular.
 
